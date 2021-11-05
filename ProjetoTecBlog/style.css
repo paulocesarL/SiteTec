@@ -1,0 +1,113 @@
+*{
+    margin:0px;
+
+}
+html, body {
+	
+    margin: 0;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    overflow-x:hidden;
+    background-color: #e6e6e6;
+}
+
+a{
+    text-decoration: none;
+    font-size:larger;
+    color:#e6e6e6;
+}
+
+a:hover{
+    background-color: #e6e6e6;
+    text-decoration: underline;
+    color: #f7b600;
+
+}
+
+
+h4{
+    margin-top:-20px;
+}
+
+.cabecalho{
+    width: 100%; 
+    padding:15px;
+    background-color: #f7b600;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+#menu{
+    margin: 20px 0px;
+   
+}
+
+#menu ul{
+    text-align: center;
+   
+}
+
+#menu ul li{
+    display: inline;
+    padding:10px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color: #565656;
+    padding:5px;
+}
+
+#menu ul li a:hover{
+    padding: 9px;
+    background-color: white;
+    color:#f7b600;
+    border: 1px black groove;
+
+}
+
+
+
+.tit{
+    margin:0px auto;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.container{
+    width: 920px;
+    margin:15px auto;
+}
+
+.conteudo{
+    width:640px;
+    float:left;
+    background-color: #FFF;
+}
+
+.clear{
+    clear: both;
+
+}
+.titulopost{
+    color:yellow;
+}
+
+.direitos{
+    
+    background-color: #e6e6e6;
+    font-weight: bold;
+}
+
+.postlat{
+    float: right;
+    background-color: whitesmoke;
+    width: 200px;
+}
+
+#linkslaterais a{
+    display:block;
+    text-decoration: none;
+    color: #f7b600; 
+    font-size: 18px;
+}
+
